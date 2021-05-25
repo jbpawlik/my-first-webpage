@@ -1,0 +1,21 @@
+h1 {
+  color:gray;
+  text-align: center;
+  font-family: 'Times New Roman', Times, sans-serif;
+}
+
+h3 {
+  color: blanchedalmond;
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: justify;
+}
+
+ul {
+  font-size: 14px;
+  line-height: 30px;
+}
