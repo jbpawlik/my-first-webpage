@@ -24,4 +24,6 @@ ul {
 
 img {
   width: 200px;
+  border:2px solid navy;
+  border-radius: 50px;
 }
