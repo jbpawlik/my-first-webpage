@@ -1,21 +1,43 @@
 h1 {
-  color:gray;
+  color:midnightblue;
   text-align: center;
   font-family: 'Times New Roman', Times, sans-serif;
+}
+
+h2 {
+  color:navy;
+  text-align: center;
 }
 
 h3 {
   color: blanchedalmond;
   text-align: center;
   font-style: italic;
+  line-height: 30px;
 }
 
 p {
   font-family: 'Times New Roman', Times, serif;
   text-align: justify;
+  color: navy;
 }
 
 ul {
-  font-size: 14px;
+  font-size: 24px;
   line-height: 30px;
+  color:navy;
+}
+
+ol {
+  font-size: 24px;
+  line-height: 30px;
+  color:navy;
+}
+
+img {
+  border:2px solid navy;
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
 }
