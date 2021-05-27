@@ -18,10 +18,13 @@ Alternately, visit reduxredux.github.io/my-first-webpage to preview the site
 Any potential bugs are, at this time, unknown. Please contact the author if you happen to discover any.
 
 ### __License__
-This software is licensed under the MIT license.
 
-Copyright © 2021 James Benjamin Pawlik
-[MIT](https://en.wikipedia.org/wiki/MIT_License)
+### __License__
+This software is licensed under the [BSD license](license.txt).
+
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+
+Copyright (c) 2021 James Benjamin Pawlik
 
 ### __Contact Information__
 Contact the author at __reduxredux@gmail.com__
