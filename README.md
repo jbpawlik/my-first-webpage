@@ -18,6 +18,9 @@ Alternately, visit reduxredux.github.io/my-first-webpage to preview the site
 Any potential bugs are, at this time, unknown. Please contact the author if you happen to discover any.
 
 ### __License__
+This software is licensed under the MIT license.
+
+Copyright © 2021 James Benjamin Pawlik
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 ### __Contact Information__
